@@ -1,6 +1,6 @@
 # Toroidal Game of Life in Python
 
-
+This was another exercise from @Bernd-Ulmann
 
 ## Description
 
@@ -50,7 +50,3 @@ For questions or suggestions, feel free to contact:
 
 Happy cellular automating!
 ```
-
-Make sure to replace `your-username` with your actual GitHub username and customize the contact information accordingly. Also, make sure to create a `LICENSE` file with the text of the MIT License.
-
-You can create an image file named `game_of_life.png` to include a visual representation of the Game of Life patterns or any relevant image related to your project.
